@@ -1,3 +1,4 @@
+"""
 str = 'Hello'
 str1 = "Hello"
 print(str)
@@ -16,3 +17,24 @@ format = new[0]
 formats = new[6]
 print(format)
 print(formats)
+
+
+cmt = "computer"
+test1 = cmt[:1]
+print(test1)
+
+test2 = cmt[1:3]
+print(test2)
+
+test3 = cmt[2:]
+print(test3)
+
+test4 = cmt[2:4]
+print(test4)
+
+test5 = cmt[:-2]
+print(test5)
+"""
+
+var1 = 'Hello world!'
+var2 = "Python Programming"
