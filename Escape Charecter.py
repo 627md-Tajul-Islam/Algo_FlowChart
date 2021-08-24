@@ -45,3 +45,6 @@
 
 #\v
 # set output to vertical tab
+
+#\000
+# octal value
