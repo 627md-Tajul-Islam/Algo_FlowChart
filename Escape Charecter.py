@@ -39,3 +39,6 @@
 
 #\t
 # to set output right tab
+
+#\uxxxx
+# 16 bit hexadecimal unicode chr
