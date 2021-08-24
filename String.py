@@ -1,4 +1,4 @@
-"""
+
 str = 'Hello'
 str1 = "Hello"
 print(str)
@@ -34,10 +34,14 @@ print(test4)
 
 test5 = cmt[:-2]
 print(test5)
-"""
+
 
 var1 = 'Hello world!'
 var2 = "Python Programming"
 
 print("var1[0]: ", var1[0])
 print("var2[0]: ", var2[1:5])
+
+
+var1 = 'Hello World!'
+print("Updated:-", var1[:6] + 'Python')
