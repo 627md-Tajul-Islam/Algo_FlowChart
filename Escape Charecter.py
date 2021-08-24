@@ -31,5 +31,8 @@
 # \U xxxxxxxxx
 # to show 32 bit hexa into unicode
 
-#r ASCII
+#\r ASCII
 # carrige return
+
+#\xhh
+# hexadecimal value chr
