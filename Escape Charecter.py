@@ -42,3 +42,6 @@
 
 #\uxxxx
 # 16 bit hexadecimal unicode chr
+
+#\v
+# set output to vertical tab
