@@ -15,3 +15,21 @@
 
 # /b
 # give a backslash
+
+# \\
+# output a backslash
+
+# \s
+# give a space
+
+# \f
+# form feed
+
+# /N{name}
+# unicode charecter name
+
+# \U xxxxxxxxx
+# to show 32 bit hexa into unicode
+
+#r ASCII
+# carrige return
