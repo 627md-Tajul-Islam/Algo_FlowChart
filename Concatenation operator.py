@@ -37,3 +37,9 @@ d = "4"
 add = a + b + c + d
 print(add)   # it will retun output cause the numbers are converted
 
+#7
+a = 'Welcome '
+b = 'to'
+c = ' Bangladesh'
+add = a + b + c
+print(add) # another way to add space.
