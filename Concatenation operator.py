@@ -13,13 +13,13 @@ a = "Hello"
 b = "World"
 add = a + " " + "&" + " " + b
 print(add)  # adding space
-
-""" 
+#4
 a = "2"
 b = "2"
 add = a + b
 print(add) # it will return 22 instead of 4 cause its a string
-
+#5
+""" 
 a = 1
 b = "2"
 c = 3
