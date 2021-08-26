@@ -43,3 +43,6 @@ b = 'to'
 c = ' Bangladesh'
 add = a + b + c
 print(add) # another way to add space.
+#8
+a = "Tajul " * 5
+print(a) # repetition
