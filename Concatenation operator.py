@@ -49,3 +49,9 @@ print(a) # repetition
 #9
 a = 4 * " 5"
 print(a)
+#10
+""" 
+a = '17' * '87'
+print(a)
+"""
+# we cant repetition 2 strings
