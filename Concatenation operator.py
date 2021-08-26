@@ -46,3 +46,6 @@ print(add) # another way to add space.
 #8
 a = "Tajul " * 5
 print(a) # repetition
+#9
+a = 4 * " 5"
+print(a)
