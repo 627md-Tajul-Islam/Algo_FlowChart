@@ -28,3 +28,12 @@ add = a + b + c + d
 print(add)
 """
 # this will through an error cause its mixed with string with number
+
+#6
+a = str(1)
+b = "2"
+c = str(3)
+d = "4"
+add = a + b + c + d
+print(add)   # it will retun output cause the numbers are converted
+
