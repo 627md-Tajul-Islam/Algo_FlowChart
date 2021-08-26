@@ -1,0 +1,15 @@
++ = Concatenation - Adds value on the either side of the operator
+
+* = Repetition - Create new strings,concatenating multiple copies of the same string
+
+[] = slice - Gives the character from the given index
+
+[ : ] = Range slice - Gives the characters from the given range
+
+in = Membership - Returns true if the character exists in the given string
+
+not in = !Membership - Returns true if a character does not exists in the given             string
+
+r/R = Raw String - Suppresses actual meaning of Escape characters
+
+% = Format - Performs string formatting
