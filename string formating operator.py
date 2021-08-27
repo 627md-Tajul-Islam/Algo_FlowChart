@@ -11,3 +11,6 @@ print('%.2f'%x)
 print('%.3f'%x)
 print('%.4f'%x)
 #4
+x = 'java'
+y = 'C++'
+print('%s and %s are the two example of OOP'%(x,y))
