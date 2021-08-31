@@ -21,3 +21,6 @@ a = '{2},{1},{0}'.format('a','b','c')
 print(a)
 b = '{0}{1}{0}'.format('abra', 'cad', 'abracadabra')
 print(b)  # we can use also with a messy index
+#7
+message = "if x = {x} and y = {y}, then x+y = {z}".format(x=20,y=300,z=20+3000)
+print(message)
