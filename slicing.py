@@ -11,3 +11,4 @@ print(c)
 #4
 d = x[0:4]
 print(d)
+# it will start from 0 index and slice the given number
