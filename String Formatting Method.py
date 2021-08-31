@@ -16,3 +16,6 @@ print("The List is:{}".format(list)) # formatting list
 #5
 msg = "My score on C: {0}, Python: {1},Java: {2}".format(6,6.5,5)
 print(msg) # using placeholders to using string
+#6
+a = '{2},{1},{0}'.format('a','b','c')
+print(a)
