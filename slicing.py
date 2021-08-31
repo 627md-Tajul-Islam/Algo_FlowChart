@@ -15,5 +15,6 @@ print(d)
 
 str = "python program"
 length = len(str)
+print(length)
 str = str[0:length:3]
 print(str)
