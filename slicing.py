@@ -12,3 +12,7 @@ print(c)
 d = x[0:4]
 print(d)
 # it will start from 0 index and slice the given number
+
+str = "python program"
+length = len(str)
+str =
