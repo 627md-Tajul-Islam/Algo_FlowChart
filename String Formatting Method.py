@@ -9,4 +9,7 @@ s = "Value of a = {}, value of b = {}"
 print(s.format(a,b)) #  format using a var, storing string into
 #3
 name = "Tajul"
-print('Hi, My name is {}|' .format(name)) #formatting variable
+print('Hi, My name is {}|' .format(name)) #formatting variable using string format
+#4
+list = [1,2,3,4,5]
+print("The List is:{}".format(list))
