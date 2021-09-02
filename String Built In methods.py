@@ -27,3 +27,9 @@ x = "Welcome to america"
 print(x)
 y = x.replace("america","Afghanistan")
 print(y) # its replaced
+
+#2
+x = "Tajul"
+print(x)
+y = x.replace("a","i")
+print(y)
