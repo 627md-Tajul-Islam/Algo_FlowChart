@@ -82,3 +82,8 @@ print(y) # count method.
 x = "Welcome to afghanistan"
 y = x.count('co')
 print(y)
+
+x = "what"
+y = x.find('t')
+print(y) # find method
+
