@@ -52,4 +52,8 @@ print(y) # upper method
 x = "WELCOME"
 print(x)
 y = x.lower()
-print(y)
+print(y) # lower method
+
+x = "Welcome"
+y = x.swapcase()
+print(y) # swapcase method
