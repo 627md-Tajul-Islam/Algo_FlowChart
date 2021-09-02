@@ -11,13 +11,13 @@ a = mohammad
 b = Tajul
 c = Islam
 print(",".join(["mohammad","b","c"]))
-"""
+"""  # code not allowed
 
 x = "How are you"
 y = x.split()
-print(y)
+print(y) #  split method
 
 x = "hello tajul, how are you"
 words = x.split()
 for x in words:
-    print(x)
+    print(x) # split by word
