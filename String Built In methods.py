@@ -43,3 +43,13 @@ print(y) # strip method. used to remove 1st and last charectar
 y = "welcome"
 z = y.capitalize()
 print(z) # capitalize method.
+
+x = "welcome"
+print(x)
+y = x.upper()
+print(y) # upper method
+
+x = "WELCOME"
+print(x)
+y = x.lower()
+print(y)
