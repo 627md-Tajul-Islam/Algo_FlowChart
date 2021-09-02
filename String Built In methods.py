@@ -33,3 +33,9 @@ x = "Tajul"
 print(x)
 y = x.replace("a","i")
 print(y)
+
+
+x = "Welcome to Jashore polytechnic institute"
+print(x)
+y = x.strip('W')
+print(y) # strip method. used to remove 1st and last charectar
