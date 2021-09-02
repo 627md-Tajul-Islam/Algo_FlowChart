@@ -12,3 +12,7 @@ b = Tajul
 c = Islam
 print(",".join(["mohammad","b","c"]))
 """
+
+x = "How are you"
+y = x.split()
+print(y)
