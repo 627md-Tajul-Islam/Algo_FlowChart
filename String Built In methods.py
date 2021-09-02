@@ -16,3 +16,8 @@ print(",".join(["mohammad","b","c"]))
 x = "How are you"
 y = x.split()
 print(y)
+
+x = "hello tajul, how are you"
+words = x.split()
+for x in words:
+    print(x)
