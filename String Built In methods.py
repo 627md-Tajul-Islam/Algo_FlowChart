@@ -21,7 +21,8 @@ x = "hello tajul, how are you"
 words = x.split()
 for x in words:
     print(x) # split by word
-    
+
+ #1
 x = "Welcome to america"
 print(x)
 y = x.replace("america","Afghanistan")
