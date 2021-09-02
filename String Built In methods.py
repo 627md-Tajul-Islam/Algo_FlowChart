@@ -57,3 +57,19 @@ print(y) # lower method
 x = "Welcome"
 y = x.swapcase()
 print(y) # swapcase method
+
+#1
+x = "Welcome"
+y = "Welcome"
+if x.casefold()==y.casefold():
+    print("same")
+else:
+    print("different")
+
+#2
+x = "Welcome"
+y = "Welcomes"
+if x.casefold()==y.casefold():
+    print("same")
+else:
+    print("different")
