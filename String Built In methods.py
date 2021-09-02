@@ -73,3 +73,8 @@ if x.casefold()==y.casefold():
     print("same")
 else:
     print("different")
+
+
+x = "Welcome to afghanistan"
+y = x.count('o')
+print(y) # count method.
