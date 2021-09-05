@@ -22,7 +22,7 @@ istitle()
 lower()
 istrip()
 maketrans()
-
+isdecimal()
 
 
 
