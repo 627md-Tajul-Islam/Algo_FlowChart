@@ -36,5 +36,5 @@ startswith(str,beg=0,end=len(string))
 strip([chars])
 swapcase()
 upper()
-
+zfill(width)
 
