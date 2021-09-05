@@ -23,7 +23,7 @@ lower()
 istrip()
 maketrans()
 isdecimal()
-
+max(str)
 
 
 
