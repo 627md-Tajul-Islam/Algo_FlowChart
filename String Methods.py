@@ -34,7 +34,7 @@ min(str)
 splitlines(num=string.count('\n'))
 startswith(str,beg=0,end=len(string))
 strip([chars])
-
+swapcase()
 
 
 
