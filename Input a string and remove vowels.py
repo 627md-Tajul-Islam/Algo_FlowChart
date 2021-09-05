@@ -9,3 +9,6 @@ else:
     vowels = ('a','e','i','o','u')
     for x in string.lower():
         if x in vowels:
+            Newstring = Newstring.replace(x,"")
+    print("New string after removing all vowels: ")
+    print(Newstring,"\n")
