@@ -31,7 +31,7 @@ rjust(width,[fillchar])
 rstrip()
 split(str="",num=string.count(str))
 min(str)
-
+splitlines(num=string.count('\n'))
 
 
 
