@@ -7,3 +7,5 @@ while True:
 else:
     Newstring = string
     vowels = ('a','e','i','o','u')
+    for x in string.lower():
+        if x in vowels:
