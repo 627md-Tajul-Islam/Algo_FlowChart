@@ -21,7 +21,7 @@ ljust()
 istitle()
 lower()
 istrip()
-
+maketrans()
 
 
 
