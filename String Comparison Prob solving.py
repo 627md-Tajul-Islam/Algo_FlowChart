@@ -9,4 +9,4 @@ while True:
         if string1 == string2:
             print("They are all the same. /n")
         else:
-            print
+            print("Not equal man. /n")
