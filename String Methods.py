@@ -24,7 +24,7 @@ istrip()
 maketrans()
 isdecimal()
 max(str)
-
+replace(old,new,[,max])
 
 
 
