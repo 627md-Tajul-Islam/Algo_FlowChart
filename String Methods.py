@@ -19,7 +19,7 @@ join(seq)
 len(string)
 ljust()
 istitle()
-
+lower()
 
 
 
