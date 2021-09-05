@@ -26,7 +26,7 @@ isdecimal()
 max(str)
 replace(old,new,[max])
 rfind(str,beg=0,end=len(string))
-
+rindex(str,beg=0,end=len(string))
 
 
 
