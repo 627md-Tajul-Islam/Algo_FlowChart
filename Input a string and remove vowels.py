@@ -4,4 +4,6 @@ while True:
         print("You have chosen death")
     break
 
-    else:
+else:
+    Newstring = string
+    vowels = ('a','e','i','o','u')
