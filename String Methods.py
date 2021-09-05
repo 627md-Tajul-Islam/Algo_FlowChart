@@ -20,7 +20,7 @@ len(string)
 ljust()
 istitle()
 lower()
-
+istrip()
 
 
 
