@@ -1,6 +1,6 @@
-while true:
+while True:
     print("Enter 'x' for exit.")
-    string = input("Entrer Any String")
+    string = input("Entrer Any String: ")
     if string =='x':
         break
     else:
