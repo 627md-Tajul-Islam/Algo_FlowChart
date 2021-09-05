@@ -29,7 +29,7 @@ rfind(str,beg=0,end=len(string))
 rindex(str,beg=0,end=len(string))
 rjust(width,[fillchar])
 rstrip()
-
+split(str="",num=string.count(str))
 
 
 
