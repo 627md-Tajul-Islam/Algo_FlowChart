@@ -5,10 +5,10 @@ while True:
         break
 
 else:
-    Newstring = string
+    newstr = string
     vowels = ('a','e','i','o','u')
     for x in string.lower():
         if x in vowels:
-            Newstring = Newstring.replace(x,"")
+            newstr = newstr.replace(x,"")
     print("New string after removing all vowels: ")
-    print(Newstring,"\n")
+    print(newstr,"\n")
