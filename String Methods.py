@@ -37,4 +37,4 @@ strip([chars])
 swapcase()
 upper()
 zfill(width)
-
+translate(table,deletechars="")
