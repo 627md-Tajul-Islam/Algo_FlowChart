@@ -3,4 +3,4 @@ I am tajul islam.I reads in JPI.My home town is jashore. I am a jr frontend deve
 """
 print(var)
 
-print(u"Welcome to CPI") #unicode
+print(u"Welcome to CPI") #unicode chr
