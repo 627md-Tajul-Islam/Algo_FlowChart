@@ -1,5 +1,8 @@
 a = int("123")
 print(a)
+
+
+
 print(type(a))  # Converted from string to integer,works with string
 
 a = float(100)
