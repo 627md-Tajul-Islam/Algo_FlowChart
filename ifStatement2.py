@@ -3,3 +3,7 @@ if > 5:
 
 ########################
 
+a = 50
+b = 10
+if a > b:
+    print("a is greater than b")
