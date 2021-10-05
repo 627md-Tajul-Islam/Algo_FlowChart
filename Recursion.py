@@ -2,4 +2,6 @@ def factorial(x):
     if x == 1:
         return 1
     else:
-        return
+        return (x*factorial(x-1))
+
+number = int(input("Enter a number: "))
