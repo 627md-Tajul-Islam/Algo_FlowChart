@@ -5,3 +5,5 @@ print(full)
 today = datetime.date.today()
 print(today)
 
+now = datetime.now()
+current_time = now.strftime()
