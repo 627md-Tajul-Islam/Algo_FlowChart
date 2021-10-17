@@ -1,3 +1,3 @@
-for x in range(3):
+for x in range(5):
     print("Hi")
     print("good bye")
