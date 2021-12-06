@@ -33,3 +33,7 @@ not
 #membership
 in
 not in
+
+#identity
+is
+is not
