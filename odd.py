@@ -1,0 +1,1 @@
+a = int(int("Enter a number: "))
