@@ -13,6 +13,13 @@ print(str1)
 list = [1,2,3,4,5,6]
 print(list)
 
-#4 tuple
+#4/ tuple
 tuple = (1,2,3,4,5,6)
 print(tuple)
+
+#5/ dictionary
+dict = {
+    'one' : 1,
+    'two' : 2,
+    'three' : 3
+}
