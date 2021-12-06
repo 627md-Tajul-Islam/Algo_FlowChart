@@ -9,6 +9,13 @@
 
 # Assignment
 =
++=
+-=
+*=
+/=
+%=
+**=
+//=
 
 # comparison
 ==
@@ -22,3 +29,5 @@
 and
 or
 not
+
+#
