@@ -30,4 +30,6 @@ and
 or
 not
 
-#
+#membership
+in
+not in
