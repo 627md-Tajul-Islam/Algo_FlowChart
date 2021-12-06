@@ -17,3 +17,8 @@
 <
 >=
 <=
+
+#logical
+and
+or
+not
