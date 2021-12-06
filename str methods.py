@@ -17,3 +17,8 @@ print(a)
 a = "MD Tajul islam"
 a = a.lower()
 print(a)
+
+#5
+a = "MD Tajul islam"
+a = a.replace("T","P")
+print(a)
