@@ -1,2 +1,7 @@
-# Arithmetic operator
+# Arithmetic
 + - * / % ** //
+
+# Assignment
+=
+
+# comparison
