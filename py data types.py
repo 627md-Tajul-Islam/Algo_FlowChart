@@ -12,3 +12,7 @@ print(str1)
 # 3/ list
 list = [1,2,3,4,5,6]
 print(list)
+
+#4 tuple
+tuple = (1,2,3,4,5,6)
+print(tuple)
