@@ -1,7 +1,14 @@
 # Arithmetic
-+ - * / % ** //
++
+-
+*
+/
+%
+**
+//
 
 # Assignment
 =
 
 # comparison
+==
