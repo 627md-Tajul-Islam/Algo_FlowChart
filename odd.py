@@ -1,5 +1,4 @@
-a = int(int("Enter a number: "))
-
+a = int(input("Enter a number: "))
 if (a / 2):
     print("Even")
 else:
