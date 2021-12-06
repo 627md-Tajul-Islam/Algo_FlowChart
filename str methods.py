@@ -12,3 +12,8 @@ print(a)
 a = "MD Tajul islam"
 a = a.upper()
 print(a)
+
+#4
+a = "MD Tajul islam"
+a = a.lower()
+print(a)
