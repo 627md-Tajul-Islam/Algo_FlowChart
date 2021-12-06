@@ -23,3 +23,4 @@ dict = {
     'two' : 2,
     'three' : 3
 }
+print(dict)
