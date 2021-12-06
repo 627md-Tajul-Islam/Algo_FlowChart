@@ -7,3 +7,8 @@ print(a)
 a = "MD Tajul islam"
 a = a.split()
 print(a)
+
+#3
+a = "MD Tajul islam"
+a = a.upper()
+print(a)
